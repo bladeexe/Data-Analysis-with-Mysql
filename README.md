@@ -11,11 +11,11 @@ The dataset includes various details about each accident, such as the number of 
 ## Primary objective
 The primary objective is to identify risky conditions for cycling by analysing accident frequency, severity, and contributing factors. To do so, we need to answer the following questions:
 
-**1. How have accident numbers changed over the years?
+1. How have accident numbers changed over the years?
 2. Which days of the week see the most accidents?
 3. What is the relationship between the number of vehicles involved and the severity of accidents?
 4. How do light conditions affect the severity of accidents?
-5. Which weather conditions are most commonly associated with accidents?**
+5. Which weather conditions are most commonly associated with accidents?
 
 After importing the CSV file, I prepared the dataset for analysis by performing the following data cleaning steps
 
